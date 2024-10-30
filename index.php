@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Pedro Oliveira dos Santos e Thaynná da Silva Céo</h1>
+    <img src="imagens.jpg" >
 </body>
 </html>
